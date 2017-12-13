@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ICT13580074"
+    x:Class="ICT13580074.ICT13580074Page"
+    BackgroundColor="#C6C4D2"
+    Padding="20,20,20,20">
+    
+    <StackLayout
+        BackgroundColor="#E0DBE3"
+        Orientation="Vertical">
+        
+        <Label
+            Text="Hello"
+            BackgroundColor="#8D89A5"
+            TextColor="#DDDAE8"
+            x:Name="firstNameLable" />
+        
+        <Label
+            Text="Wichayaporn"
+            BackgroundColor="White"
+            x:Name="lastNameLable" />
+        
+        <Entry
+            Placeholder="กรุณากรอกชื่อ"
+            Keyboard="Text"
+            BackgroundColor="Purple"
+            x:Name="firstNameEntry" />
+        
+        <Button
+            Text="OK"
+            BackgroundColor="#3F2A56"
+            x:Name="okButton" />
+
+        <DatePicker/>
+        <TimePicker/>
+        
+        <Picker
+            x:Name="genderPicker"
+            Title="input gender"/>
+
+        
+        <Label
+            x:Name="valueLabel"/>
+
+        <Slider
+            Maximum="100"
+            Minimum="0"
+            Value="50"
+            x:Name="mySlider"/>
+
+        <Stepper
+           Maximum="10"
+            Minimum="0"
+            Value="0"
+            Increment="1"
+            x:Name="myStepper"/>
+            
+        <Switch
+            IsToggled="true"/>
+
+        <Image
+            Source="nike_swoosh_logo_black.png"
+            HeightRequest="100"/>
+
+        <WebView
+            Source="https://youtu.be/yeTccAnXDJw" 
+             HeightRequest="150"/>
+        
+    </StackLayout>
+</ContentPage>

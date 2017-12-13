@@ -1,0 +1,73 @@
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/ICT13580074.dll
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/ICT13580074.pdb
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Core.dll
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Core.xml
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/obj/Debug/ICT13580074.csprojResolveAssemblyReference.cache
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/obj/Debug/ICT13580074.csproj.CoreCompileInputs.cache
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/obj/Debug/ICT13580074.App.xaml.g.cs
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/obj/Debug/ICT13580074.ICT13580074Page.xaml.g.cs
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/obj/Debug/ICT13580074.dll
+/Users/su_6/Desktop/ICTA13580074/ICT13580074/ICT13580074/obj/Debug/ICT13580074.pdb
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/ICT13580074.dll
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/ICT13580074.pdb
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Core.dll
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Core.xml
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/su_6/Desktop/ICT13580074/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/su_6/Desktop/ICT13580074/ICT13580074/obj/Debug/ICT13580074.csprojResolveAssemblyReference.cache
+/Users/su_6/Desktop/ICT13580074/ICT13580074/obj/Debug/ICT13580074.csproj.CoreCompileInputs.cache
+/Users/su_6/Desktop/ICT13580074/ICT13580074/obj/Debug/ICT13580074.App.xaml.g.cs
+/Users/su_6/Desktop/ICT13580074/ICT13580074/obj/Debug/ICT13580074.ICT13580074Page.xaml.g.cs
+/Users/su_6/Desktop/ICT13580074/ICT13580074/obj/Debug/ICT13580074.StackPage.xaml.g.cs
+/Users/su_6/Desktop/ICT13580074/ICT13580074/obj/Debug/ICT13580074.dll
+/Users/su_6/Desktop/ICT13580074/ICT13580074/obj/Debug/ICT13580074.pdb
+/Users/su_6/Desktop/ICT13580074/ICT13580074/obj/Debug/ICT13580074.GridPage.xaml.g.cs
+/Users/su_6/Desktop/ICT13580074/ICT13580074/obj/Debug/ICT13580074.AbsolutePage.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.csproj.CoreCompileInputs.cache
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.App.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.ICT13580074Page.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.StackPage.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.GridPage.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.AbsolutePage.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.MyPage1.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.MyPage2.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.MyPage3.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.NavPage1.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.NavPage2.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.NavPage3.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.TapPage1.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.TapPage2.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.TapPage3.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.MenuPage.xaml.g.cs
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/ICT13580074.dll
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/ICT13580074.pdb
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/Xamarin.Forms.Core.dll
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/Xamarin.Forms.Core.xml
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.dll
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.pdb
+/Users/ict/Desktop/ICT13580074 2/ICT13580074/obj/Debug/ICT13580074.csprojResolveAssemblyReference.cache
